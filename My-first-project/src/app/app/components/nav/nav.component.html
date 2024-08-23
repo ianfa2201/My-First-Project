@@ -1,0 +1,66 @@
+<nav class="navbar navbar-expand-lg bg-secondary" data-bs-theme="dark">
+  <div class="container-fluid">
+    <div class="col-sm-4">
+      <a routerLink="home" routerLinkActive="activeButton" class="navbar-brand btn"
+        >Sistema de calificaciones</a
+      >
+    </div>
+
+    <div class="collapse navbar-collapse col-sm-3" id="navbarColor02">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        
+        <li class="nav-item">
+          <a routerLink="notes" routerLinkActive="activeButton" class="btn"
+            >Notes
+          </a>
+        </li>
+        <li class="nav-item">
+          <a
+            routerLink="courses"
+            routerLinkActive="activeButton"
+            class="btn"
+            >Courses</a
+          >
+        </li>
+        <li class="nav-item">
+          <a
+            routerLink="courses-seen"
+            routerLinkActive="activeButton"
+            class="btn"
+            >Courses Seen</a
+          >
+        </li>
+        <li class="nav-item">
+          <a routerLink="student" routerLinkActive="activeButton" class="btn"
+            >Student Profile</a
+          >
+        </li>
+        <div class="btn-group">
+          <button type="button" class="btn btn-danger dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+            Action
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">Separated link</a></li>
+          </ul>
+        </div>
+      </ul>
+      <form class="d-flex" role="search">
+        <input
+          class="form-control me-2"
+          type="search"
+          placeholder="Search"
+          aria-label="Search"
+        />
+        <button class="btn btn-secondary" type="submit">Search</button>
+      </form>
+
+      
+    </div>
+  </div>
+</nav>
+
+<script type="module" src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
