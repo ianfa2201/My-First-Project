@@ -1,1 +1,18 @@
-<p>notes works!</p>
+<app-nav></app-nav>
+<h1>Notas de estudiantes</h1>
+
+<table border="1" class="table col-sm-12">
+  <thead>
+    <th scope="col">Estudiante</th>
+    <th scope="col">Materia</th>
+    <th scope="col">Nota</th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let nota of notas">
+      <td scope="row">{{ nota.estudiante }}</td>
+      <td scope="row">{{ nota.materia }}</td>
+      <td scope="row">{{ nota.nota }}</td>
+    </tr>
+  </tbody>
+</table>
+<app-footer></app-footer>

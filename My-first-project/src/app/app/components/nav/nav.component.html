@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg bg-secondary" data-bs-theme="dark">
   <div class="container-fluid">
     <div class="col-sm-4">
-      <a routerLink="home" routerLinkActive="activeButton" class="navbar-brand btn"
+      <a routerLink="/home" routerLinkActive="activeButton" class="navbar-brand btn"
         >Sistema de calificaciones</a
       >
     </div>
@@ -10,13 +10,13 @@
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         
         <li class="nav-item">
-          <a routerLink="notes" routerLinkActive="activeButton" class="btn"
+          <a routerLink="/notes" routerLinkActive="activeButton" class="btn"
             >Notas
           </a>
         </li>
         <li class="nav-item">
           <a
-            routerLink="courses"
+            routerLink="/courses"
             routerLinkActive="activeButton"
             class="btn"
             >Cursos Actuales</a
@@ -24,7 +24,7 @@
         </li>
         <li class="nav-item">
           <a
-            routerLink="courses-seen"
+            routerLink="/courses-seen"
             routerLinkActive="activeButton"
             class="btn"
             >Cursos Vistos</a
@@ -49,9 +49,9 @@
           </svg> Menu
         </button>
         <ul class="dropdown-menu">
-          <li><a class="dropdown-item" routerLink="student" routerLinkActive="activeButton">Perfil</a></li>
-          <li><a class="dropdown-item" routerLink="settings" routerLinkActive="activeButton">Configuracion</a></li>
-          <li><a class="dropdown-item" routerLink="help" routerLinkActive="activeButton">Ayuda
+          <li><a class="dropdown-item" routerLink="/student" routerLinkActive="activeButton" [routerLinkActiveOptions]="{exact: true}" >Perfil</a></li>
+          <li><a class="dropdown-item" routerLink="/student/settings" routerLinkActive="activeButton">Configuracion</a></li>
+          <li><a class="dropdown-item" routerLink="/student/help" routerLinkActive="activeButton">Ayuda
           </a></li>
           <li><hr class="dropdown-divider"></li>
           <li>

@@ -1,0 +1,252 @@
+[
+    {
+        "estudiante": "Diana Vargas",
+        "materia": "Algoritmos",
+        "nota": 31.71
+    },
+    {
+        "estudiante": "Diana Vargas",
+        "materia": "Arquitectura de Computadores",
+        "nota": 12.01
+    },
+    {
+        "estudiante": "Daniel Paredes",
+        "materia": "Estructura de Datos",
+        "nota": 31.84
+    },
+    {
+        "estudiante": "Carlos Perez",
+        "materia": "Estructura de Datos",
+        "nota": 3.47
+    },
+    {
+        "estudiante": "Paula Ruiz",
+        "materia": "Redes de Computadoras",
+        "nota": 0.2
+    },
+    {
+        "estudiante": "Diana Vargas",
+        "materia": "Estructura de Datos",
+        "nota": 32.46
+    },
+    {
+        "estudiante": "Fernando Castillo",
+        "materia": "Estructura de Datos",
+        "nota": 13.79
+    },
+    {
+        "estudiante": "Maria Gomez",
+        "materia": "Redes de Computadoras",
+        "nota": 20.86
+    },
+    {
+        "estudiante": "Fernando Castillo",
+        "materia": "Ingenier\u00eda de Software",
+        "nota": 38.72
+    },
+    {
+        "estudiante": "Paula Ruiz",
+        "materia": "Arquitectura de Computadores",
+        "nota": 6.65
+    },
+    {
+        "estudiante": "Daniel Paredes",
+        "materia": "Matem\u00e1ticas Discretas",
+        "nota": 9.99
+    },
+    {
+        "estudiante": "Sofia Jimenez",
+        "materia": "Sistemas Operativos",
+        "nota": 45.51
+    },
+    {
+        "estudiante": "Diana Vargas",
+        "materia": "Bases de Datos",
+        "nota": 42.49
+    },
+    {
+        "estudiante": "Sofia Jimenez",
+        "materia": "Algoritmos",
+        "nota": 15.76
+    },
+    {
+        "estudiante": "Fernando Castillo",
+        "materia": "Sistemas Operativos",
+        "nota": 25.86
+    },
+    {
+        "estudiante": "Maria Gomez",
+        "materia": "Programaci\u00f3n",
+        "nota": 46.69
+    },
+    {
+        "estudiante": "Ricardo Ramirez",
+        "materia": "Bases de Datos",
+        "nota": 19.65
+    },
+    {
+        "estudiante": "Fernando Castillo",
+        "materia": "Inteligencia Artificial",
+        "nota": 18.29
+    },
+    {
+        "estudiante": "Alejandra Suarez",
+        "materia": "Ingenier\u00eda de Software",
+        "nota": 9.86
+    },
+    {
+        "estudiante": "Monica Ortiz",
+        "materia": "Matem\u00e1ticas Discretas",
+        "nota": 20.13
+    },
+    {
+        "estudiante": "Carlos Perez",
+        "materia": "Matem\u00e1ticas Discretas",
+        "nota": 39.65
+    },
+    {
+        "estudiante": "Sofia Jimenez",
+        "materia": "Arquitectura de Computadores",
+        "nota": 37.67
+    },
+    {
+        "estudiante": "Luis Rodriguez",
+        "materia": "Inteligencia Artificial",
+        "nota": 41.29
+    },
+    {
+        "estudiante": "Pablo Castro",
+        "materia": "Arquitectura de Computadores",
+        "nota": 26.47
+    },
+    {
+        "estudiante": "Andres Torres",
+        "materia": "Redes de Computadoras",
+        "nota": 37.75
+    },
+    {
+        "estudiante": "Ana Martinez",
+        "materia": "Estructura de Datos",
+        "nota": 41.6
+    },
+    {
+        "estudiante": "Ana Martinez",
+        "materia": "Inteligencia Artificial",
+        "nota": 38.58
+    },
+    {
+        "estudiante": "Maria Gomez",
+        "materia": "Arquitectura de Computadores",
+        "nota": 26.36
+    },
+    {
+        "estudiante": "Alejandra Suarez",
+        "materia": "Matem\u00e1ticas Discretas",
+        "nota": 48.28
+    },
+    {
+        "estudiante": "Daniel Paredes",
+        "materia": "Ingenier\u00eda de Software",
+        "nota": 4.09
+    },
+    {
+        "estudiante": "Daniel Paredes",
+        "materia": "Bases de Datos",
+        "nota": 17.09
+    },
+    {
+        "estudiante": "Luis Rodriguez",
+        "materia": "Bases de Datos",
+        "nota": 38.16
+    },
+    {
+        "estudiante": "Alejandra Suarez",
+        "materia": "Programaci\u00f3n",
+        "nota": 9.67
+    },
+    {
+        "estudiante": "Andres Torres",
+        "materia": "Inteligencia Artificial",
+        "nota": 12.24
+    },
+    {
+        "estudiante": "Ricardo Ramirez",
+        "materia": "Matem\u00e1ticas Discretas",
+        "nota": 49.86
+    },
+    {
+        "estudiante": "Ana Martinez",
+        "materia": "Ingenier\u00eda de Software",
+        "nota": 2.08
+    },
+    {
+        "estudiante": "Jorge Hernandez",
+        "materia": "Bases de Datos",
+        "nota": 13.18
+    },
+    {
+        "estudiante": "Monica Ortiz",
+        "materia": "Bases de Datos",
+        "nota": 35.35
+    },
+    {
+        "estudiante": "Manuel Fernandez",
+        "materia": "Estructura de Datos",
+        "nota": 25.08
+    },
+    {
+        "estudiante": "Monica Ortiz",
+        "materia": "Estructura de Datos",
+        "nota": 45.99
+    },
+    {
+        "estudiante": "Carlos Perez",
+        "materia": "Programaci\u00f3n",
+        "nota": 21.08
+    },
+    {
+        "estudiante": "Juan Lopez",
+        "materia": "Ingenier\u00eda de Software",
+        "nota": 28.3
+    },
+    {
+        "estudiante": "Paula Ruiz",
+        "materia": "Bases de Datos",
+        "nota": 37.46
+    },
+    {
+        "estudiante": "Manuel Fernandez",
+        "materia": "Sistemas Operativos",
+        "nota": 4.64
+    },
+    {
+        "estudiante": "Pablo Castro",
+        "materia": "Programaci\u00f3n",
+        "nota": 45.32
+    },
+    {
+        "estudiante": "Sofia Jimenez",
+        "materia": "Matem\u00e1ticas Discretas",
+        "nota": 35.44
+    },
+    {
+        "estudiante": "Ricardo Ramirez",
+        "materia": "Ingenier\u00eda de Software",
+        "nota": 23.66
+    },
+    {
+        "estudiante": "Laura Sanchez",
+        "materia": "Matem\u00e1ticas Discretas",
+        "nota": 15.95
+    },
+    {
+        "estudiante": "Carmen Morales",
+        "materia": "Matem\u00e1ticas Discretas",
+        "nota": 44.49
+    },
+    {
+        "estudiante": "Diana Vargas",
+        "materia": "Bases de Datos",
+        "nota": 27.84
+    }
+]

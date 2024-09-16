@@ -1,10 +1,9 @@
 import { Component } from '@angular/core';
-import { NavComponent } from './app/components/nav/nav.component';
-import { NgModule } from '@angular/core';
+import { NotesService } from '../services/notes.service';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './home/home.component.html',
+  templateUrl: './app.component.html',
   styleUrl: './../styles.css',
 })
 export class AppComponent {
