@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class NotesService {
-  private jsonUrl = 'src/assets/registros_notas.json';
+  private jsonUrl = 'assets/registros_notas.json';
   constructor(private http: HttpClient) { }
 
   getData(): Observable<any>{

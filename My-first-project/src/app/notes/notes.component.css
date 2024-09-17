@@ -4,3 +4,6 @@ h1{
    padding: 1em;
 }
 
+table th{
+    text-align: center;
+}

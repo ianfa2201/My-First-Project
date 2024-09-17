@@ -13,7 +13,15 @@ export class NotesComponent {
 
   ngOnInit(): void{
     this.notasService.getData().subscribe((data) => {
-      this.notas = data;
+      this.notas = data.sort((a: any, b: any) => {
+        if (a.estudiante < b.estudiante) {
+          return -1;
+        } else if (a.estudiante > b.estudiante) {
+          return 1;
+        } else {
+          return 0;
+        }
+      });
     });
   }
 }
